@@ -1,3 +1,5 @@
+<img src="https://github.com/comp1950-bag/comp1950-meta-site/blob/master/img/bcit-logo.png" alt="Logo BCIT" width="150"/> 
+
 # comp1950-meta-site
 
 ## TODO LIST
