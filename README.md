@@ -1,24 +1,62 @@
-<img src="https://github.com/comp1950-bag/comp1950-meta-site/blob/master/img/bcit-logo.png" alt="Logo BCIT" width="150"/> 
+# [Start Bootstrap - Round About](https://startbootstrap.com/template-overviews/round-about/)
 
-# comp1950-meta-site
+[Round About](http://startbootstrap.com/template-overviews/round-about/) is an about page template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
 
-## TODO LIST
+## Preview
 
-* An introduction to each team member with detailed descriptions of what each member
-contributed to the project.
+[![Round About Preview](https://startbootstrap.com/assets/img/templates/round-about.jpg)](https://blackrockdigital.github.io/startbootstrap-round-about/)
 
-* A sitemap that demonstrates the planned information architecture of the new COMP1950 site
-proposal. https://www.astuteo.com/slickmap/demo
+**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-round-about/)**
 
-* A description and rationale for all site improvements. This is among the most important sections
-of the project meta site. This is your chance to 'sell' your efforts to your client instructor. This is
-where you describe why you chose to build the site in the way you have proposed. List all the
-deliverables you have implemented, and and any features or improvements you have added.
-Justify your decisions for choosing a particular layout and design. If your HTML5 improves the
-page semantics and thus SEO, be sure to mention it. If you used jQuery or CSS3, explain where it
-is being used, and why. Also List any features you had planned to implement but could not
-complete. If your rationale does not describe a sufficient quantity of improvements, and if it
-does not effectively make a case for how these changes improve the site, your client will not be
-convinced that your team is the best choice.
+## Status
 
-* An easy to find link to the ‘Redesign Prototype Site’
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-round-about/master/LICENSE)
+[![npm version](https://img.shields.io/npm/v/startbootstrap-round-about.svg)](https://www.npmjs.com/package/startbootstrap-round-about)
+[![Build Status](https://travis-ci.org/BlackrockDigital/startbootstrap-round-about.svg?branch=master)](https://travis-ci.org/BlackrockDigital/startbootstrap-round-about)
+[![dependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-round-about/status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-round-about)
+[![devDependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-round-about/dev-status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-round-about?type=dev)
+
+## Download and Installation
+
+To begin using this template, choose one of the following options to get started:
+* [Download the latest release on Start Bootstrap](https://startbootstrap.com/template-overviews/round-about/)
+* Install via npm: `npm i startbootstrap-round-about`
+* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-round-about.git`
+* [Fork, Clone, or Download on GitHub](https://github.com/BlackrockDigital/startbootstrap-round-about)
+
+## Usage
+
+### Basic Usage
+
+After downloading, simply edit the HTML and CSS files included with the template in your favorite text editor to make changes. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
+
+### Advanced Usage
+
+After installation, run `npm install` and then run `gulp dev` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `gulpfile.js` to see which tasks are included with the dev environment.
+
+## Bugs and Issues
+
+Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-round-about/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/round-about/).
+
+## Custom Builds
+
+You can hire Start Bootstrap to create a custom build of any template, or create something from scratch using Bootstrap. For more information, visit the **[custom design services page](https://startbootstrap.com/bootstrap-design-services/)**.
+
+## About
+
+Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
+
+* https://startbootstrap.com
+* https://twitter.com/SBootstrap
+
+Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
+
+* http://davidmiller.io
+* https://twitter.com/davidmillerskt
+* https://github.com/davidtmiller
+
+Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+
+## Copyright and License
+
+Copyright 2013-2018 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-round-about/blob/gh-pages/LICENSE) license.
