@@ -19,9 +19,11 @@ nav.navbar{
 	min-height: 100px;
 }
 .main-header h1, h2{
+    box-sizing: border-box;
 	text-align: center;
 	color: #666666;
 	text-shadow: 2px 1px 10px #555555;
+    margin: 5px 0;
 }
 .float-right{
 	float:right;
