@@ -14,6 +14,6 @@ SetEnv TZ Canada/Pacific
 
 # ErrorDocument <errorNumber> <path>
 # Direct 'Page not found' errors to a specified page
-ErrorDocument 404 index.html
+ErrorDocument 404 /students/bchan128/comp1950-meta-site/index.html
 # Direct 'Access Forbidden' errors to a specified page
-ErrorDocument 403 index.html
+ErrorDocument 403 /students/bchan128/comp1950-meta-site/index.html
