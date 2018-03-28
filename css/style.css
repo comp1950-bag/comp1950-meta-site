@@ -15,14 +15,15 @@ nav.navbar{
 }
 
 /*Class Selectors*/
-.main-header{
-	min-height: 100px;
-}
-.main-header h1, h2{
+
+.my-4, h1, h2 , h3{
+    box-sizing: border-box;
 	text-align: center;
 	color: #666666;
 	text-shadow: 2px 1px 10px #555555;
+    margin: 25px 0 15px 0;
 }
+
 .float-right{
 	float:right;
 }
