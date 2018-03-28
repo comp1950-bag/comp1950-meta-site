@@ -1,0 +1,29 @@
+/*
+Author: Gustavo Guimaraes
+Date: Mar 17, 2018
+*/
+
+/*Element Selectors*/
+a.offset-anchor {
+    display: block;
+    position: relative;
+    top: -100px;
+    visibility: hidden;
+}
+nav.navbar{
+	min-height: 70px;
+}
+
+/*Class Selectors*/
+
+.my-4, h1, h2 , h3{
+    box-sizing: border-box;
+	text-align: center;
+	color: #666666;
+	text-shadow: 2px 1px 10px #555555;
+    margin: 25px 0 15px 0;
+}
+
+.float-right{
+	float:right;
+}
